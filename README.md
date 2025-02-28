@@ -23,8 +23,7 @@ Interioverse is a beautifully designed and fully responsive **interior design co
 ✅ **Dark & Light Mode** (Optional - if implemented)  
 ✅ **SEO Optimized** – Fast and efficient web performance  
 
-## 📸 Screenshots
-_Add relevant screenshots here (optional)_
+
 
 ## 🔧 Installation & Setup
 To run this project locally:
