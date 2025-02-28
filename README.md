@@ -20,8 +20,7 @@ Interioverse is a beautifully designed and fully responsive **interior design co
 ✅ **Dynamic Project Showcase** – Scrollable & interactive interior design portfolio  
 ✅ **Client Testimonials** – Customer reviews & ratings displayed dynamically  
 ✅ **Contact Form** – Reach out directly via email  
-✅ **Dark & Light Mode** (Optional - if implemented)  
-✅ **SEO Optimized** – Fast and efficient web performance  
+
 
 
 
