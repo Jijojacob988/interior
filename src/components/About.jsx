@@ -21,7 +21,7 @@ const About = () => {
                     <p>Years of Excellence</p>
                 </div>
                 <div>
-                    <p className='text-4xl font-medium text-gray-800'>12+</p>
+                    <p className='text-4xl font-medium text-gray-800'>32+</p>
                     <p>Projects Completed</p>
                 </div>
                 <div>
@@ -33,7 +33,7 @@ const About = () => {
                     <p>Ongoing Projects</p>
                 </div>
             </div>
-            <p className='my-10 max-w-lg'>At Elevate Interiors, we transform spaces into stunning reflections of style and functionality. With a passion for design and meticulous attention to detail, we craft interiors that elevate everyday living. Whether it’s a cozy home, a modern workspace, or a luxurious retreat, our expert team brings creativity and precision to every project. Your vision is our inspiration, and we’re dedicated to designing spaces that truly feel like you. Let’s create something extraordinary together!.</p>
+            <p className='my-10 max-w-lg'>At Interioverse, we transform spaces into stunning reflections of style and functionality. With a passion for design and meticulous attention to detail, we craft interiors that elevate everyday living. Whether it’s a cozy home, a modern workspace, or a luxurious retreat, our expert team brings creativity and precision to every project. Your vision is our inspiration, and we’re dedicated to designing spaces that truly feel like you. Let’s create something extraordinary together!.</p>
             <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn more</button>
         </div>
       </div>
